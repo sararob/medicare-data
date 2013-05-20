@@ -1,0 +1,602 @@
+[
+    {
+        "definition":"039 - EXTRACRANIAL PROCEDURES W/O CC/MCC",
+        "discharges":33606,
+        "covered":28522.4,
+        "payments":6843.39
+    },
+    {
+        "definition":"057 - DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC",
+        "discharges":30212,
+        "covered":24792.94,
+        "payments":6963.11
+    },
+    {
+        "definition":"064 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC",
+        "discharges":62093,
+        "covered":50511.49,
+        "payments":13773.07
+    },
+    {
+        "definition":"065 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC",
+        "discharges":106414,
+        "covered":30776.08,
+        "payments":8052.35
+    },
+    {
+        "definition":"066 - INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC",
+        "discharges":55849,
+        "covered":23864.61,
+        "payments":5787.12
+    },
+    {
+        "definition":"069 - TRANSIENT ISCHEMIA",
+        "discharges":79590,
+        "covered":21830.05,
+        "payments":5074.53
+    },
+    {
+        "definition":"074 - CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC",
+        "discharges":21659,
+        "covered":25325.33,
+        "payments":6501.27
+    },
+    {
+        "definition":"101 - SEIZURES W/O MCC",
+        "discharges":48854,
+        "covered":22428.11,
+        "payments":5798.66
+    },
+    {
+        "definition":"149 - DYSEQUILIBRIUM",
+        "discharges":23427,
+        "covered":18903.61,
+        "payments":4665.64
+    },
+    {
+        "definition":"176 - PULMONARY EMBOLISM W/O MCC",
+        "discharges":32042,
+        "covered":26417.07,
+        "payments":7361.86
+    },
+    {
+        "definition":"177 - RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC",
+        "discharges":66660,
+        "covered":51383.27,
+        "payments":13857.55
+    },
+    {
+        "definition":"178 - RESPIRATORY INFECTIONS & INFLAMMATIONS W CC",
+        "discharges":56100,
+        "covered":36088.8,
+        "payments":9961.06
+    },
+    {
+        "definition":"189 - PULMONARY EDEMA & RESPIRATORY FAILURE",
+        "discharges":95099,
+        "covered":31953.15,
+        "payments":8965.91
+    },
+    {
+        "definition":"190 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC",
+        "discharges":149677,
+        "covered":30161.78,
+        "payments":8121.58
+    },
+    {
+        "definition":"191 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC",
+        "discharges":148491,
+        "covered":24320.15,
+        "payments":6631.16
+    },
+    {
+        "definition":"192 - CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC",
+        "discharges":114790,
+        "covered":18120.85,
+        "payments":4936.96
+    },
+    {
+        "definition":"193 - SIMPLE PNEUMONIA & PLEURISY W MCC",
+        "discharges":127989,
+        "covered":37685.29,
+        "payments":9990.63
+    },
+    {
+        "definition":"194 - SIMPLE PNEUMONIA & PLEURISY W CC",
+        "discharges":198390,
+        "covered":25348.92,
+        "payments":6964.18
+    },
+    {
+        "definition":"195 - SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC",
+        "discharges":79873,
+        "covered":18077.54,
+        "payments":4830.27
+    },
+    {
+        "definition":"202 - BRONCHITIS & ASTHMA W CC/MCC",
+        "discharges":32086,
+        "covered":23776.08,
+        "payments":6082.14
+    },
+    {
+        "definition":"203 - BRONCHITIS & ASTHMA W/O CC/MCC",
+        "discharges":16577,
+        "covered":17131.74,
+        "payments":4455.95
+    },
+    {
+        "definition":"207 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT 96+ HOURS",
+        "discharges":26412,
+        "covered":143768.97,
+        "payments":39075.22
+    },
+    {
+        "definition":"208 - RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <96 HOURS",
+        "discharges":68080,
+        "covered":62710.2,
+        "payments":16407.99
+    },
+    {
+        "definition":"238 - MAJOR CARDIOVASC PROCEDURES W/O MCC",
+        "discharges":34669,
+        "covered":83737.08,
+        "payments":22312.43
+    },
+    {
+        "definition":"243 - PERMANENT CARDIAC PACEMAKER IMPLANT W CC",
+        "discharges":29646,
+        "covered":67968.69,
+        "payments":18181.94
+    },
+    {
+        "definition":"244 - PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC",
+        "discharges":27951,
+        "covered":53134.34,
+        "payments":13990.3
+    },
+    {
+        "definition":"246 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W MCC OR 4+ VESSELS/STENTS",
+        "discharges":27104,
+        "covered":93363.32,
+        "payments":23336.48
+    },
+    {
+        "definition":"247 - PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC",
+        "discharges":108272,
+        "covered":61985.03,
+        "payments":14292.07
+    },
+    {
+        "definition":"249 - PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC",
+        "discharges":32647,
+        "covered":55978.32,
+        "payments":12524.49
+    },
+    {
+        "definition":"251 - PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC",
+        "discharges":28583,
+        "covered":65054.38,
+        "payments":13877.65
+    },
+    {
+        "definition":"252 - OTHER VASCULAR PROCEDURES W MCC",
+        "discharges":34222,
+        "covered":84391.35,
+        "payments":23389.61
+    },
+    {
+        "definition":"253 - OTHER VASCULAR PROCEDURES W CC",
+        "discharges":36434,
+        "covered":68656.57,
+        "payments":17657.08
+    },
+    {
+        "definition":"254 - OTHER VASCULAR PROCEDURES W/O CC/MCC",
+        "discharges":26385,
+        "covered":46399.26,
+        "payments":11668.78
+    },
+    {
+        "definition":"280 - ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W MCC",
+        "discharges":63934,
+        "covered":46373.31,
+        "payments":12661.11
+    },
+    {
+        "definition":"281 - ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W CC",
+        "discharges":40836,
+        "covered":30496.93,
+        "payments":8118.28
+    },
+    {
+        "definition":"282 - ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W/O CC/MCC",
+        "discharges":21596,
+        "covered":23000.16,
+        "payments":5539.06
+    },
+    {
+        "definition":"286 - CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W MCC",
+        "discharges":21820,
+        "covered":61115.13,
+        "payments":15560.63
+    },
+    {
+        "definition":"287 - CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W/O MCC",
+        "discharges":115920,
+        "covered":34000.48,
+        "payments":7720.62
+    },
+    {
+        "definition":"291 - HEART FAILURE & SHOCK W MCC",
+        "discharges":185599,
+        "covered":38219.62,
+        "payments":10408.79
+    },
+    {
+        "definition":"292 - HEART FAILURE & SHOCK W CC",
+        "discharges":222038,
+        "covered":25113.91,
+        "payments":7098.42
+    },
+    {
+        "definition":"293 - HEART FAILURE & SHOCK W/O CC/MCC",
+        "discharges":89217,
+        "covered":17383.21,
+        "payments":4739.83
+    },
+    {
+        "definition":"300 - PERIPHERAL VASCULAR DISORDERS W CC",
+        "discharges":38458,
+        "covered":24634.84,
+        "payments":6928.88
+    },
+    {
+        "definition":"301 - PERIPHERAL VASCULAR DISORDERS W/O CC/MCC",
+        "discharges":16744,
+        "covered":17278.23,
+        "payments":4656.01
+    },
+    {
+        "definition":"303 - ATHEROSCLEROSIS W/O MCC",
+        "discharges":30184,
+        "covered":16473.46,
+        "payments":4152.48
+    },
+    {
+        "definition":"305 - HYPERTENSION W/O MCC",
+        "discharges":25205,
+        "covered":17734.8,
+        "payments":4485.6
+    },
+    {
+        "definition":"308 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC",
+        "discharges":61060,
+        "covered":31974.71,
+        "payments":8750.68
+    },
+    {
+        "definition":"309 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC",
+        "discharges":102484,
+        "covered":21461.88,
+        "payments":5849.76
+    },
+    {
+        "definition":"310 - CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC",
+        "discharges":113454,
+        "covered":15086.52,
+        "payments":3958.73
+    },
+    {
+        "definition":"312 - SYNCOPE & COLLAPSE",
+        "discharges":141918,
+        "covered":20541.31,
+        "payments":5156.21
+    },
+    {
+        "definition":"313 - CHEST PAIN",
+        "discharges":131079,
+        "covered":16927.67,
+        "payments":4014.83
+    },
+    {
+        "definition":"314 - OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC",
+        "discharges":51079,
+        "covered":49438.29,
+        "payments":13909.48
+    },
+    {
+        "definition":"315 - OTHER CIRCULATORY SYSTEM DIAGNOSES W CC",
+        "discharges":17478,
+        "covered":26715.91,
+        "payments":7337.41
+    },
+    {
+        "definition":"329 - MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC",
+        "discharges":37250,
+        "covered":135584.77,
+        "payments":38262.29
+    },
+    {
+        "definition":"330 - MAJOR SMALL & LARGE BOWEL PROCEDURES W CC",
+        "discharges":50766,
+        "covered":65481.84,
+        "payments":18239.71
+    },
+    {
+        "definition":"372 - MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC",
+        "discharges":28509,
+        "covered":30768.29,
+        "payments":8908.06
+    },
+    {
+        "definition":"377 - G.I. HEMORRHAGE W MCC",
+        "discharges":48398,
+        "covered":46459.45,
+        "payments":12730.23
+    },
+    {
+        "definition":"378 - G.I. HEMORRHAGE W CC",
+        "discharges":138678,
+        "covered":26058.99,
+        "payments":7084.02
+    },
+    {
+        "definition":"379 - G.I. HEMORRHAGE W/O CC/MCC",
+        "discharges":33393,
+        "covered":18974.57,
+        "payments":5030.73
+    },
+    {
+        "definition":"389 - G.I. OBSTRUCTION W CC",
+        "discharges":46860,
+        "covered":24673.25,
+        "payments":6508.34
+    },
+    {
+        "definition":"390 - G.I. OBSTRUCTION W/O CC/MCC",
+        "discharges":31249,
+        "covered":17488.9,
+        "payments":4496.17
+    },
+    {
+        "definition":"391 - ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W MCC",
+        "discharges":43026,
+        "covered":32610.74,
+        "payments":8635.41
+    },
+    {
+        "definition":"392 - ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC",
+        "discharges":244854,
+        "covered":20321.55,
+        "payments":5097.08
+    },
+    {
+        "definition":"394 - OTHER DIGESTIVE SYSTEM DIAGNOSES W CC",
+        "discharges":41346,
+        "covered":26978.34,
+        "payments":7245.43
+    },
+    {
+        "definition":"418 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC",
+        "discharges":18227,
+        "covered":48091.44,
+        "payments":11518.1
+    },
+    {
+        "definition":"419 - LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC",
+        "discharges":16157,
+        "covered":34635.74,
+        "payments":8062.48
+    },
+    {
+        "definition":"439 - DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC",
+        "discharges":17948,
+        "covered":27012.17,
+        "payments":7424.07
+    },
+    {
+        "definition":"460 - SPINAL FUSION EXCEPT CERVICAL W/O MCC",
+        "discharges":65997,
+        "covered":92884.27,
+        "payments":27347.61
+    },
+    {
+        "definition":"469 - MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W MCC",
+        "discharges":18714,
+        "covered":79518.01,
+        "payments":22350.12
+    },
+    {
+        "definition":"470 - MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC",
+        "discharges":427207,
+        "covered":50105.26,
+        "payments":14324.48
+    },
+    {
+        "definition":"473 - CERVICAL SPINAL FUSION W/O CC/MCC",
+        "discharges":23834,
+        "covered":52934.93,
+        "payments":14400.06
+    },
+    {
+        "definition":"480 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC",
+        "discharges":17851,
+        "covered":74927.73,
+        "payments":20972.5
+    },
+    {
+        "definition":"481 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC",
+        "discharges":77525,
+        "covered":48304.42,
+        "payments":12588.74
+    },
+    {
+        "definition":"482 - HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC",
+        "discharges":20739,
+        "covered":39806.11,
+        "payments":10398.82
+    },
+    {
+        "definition":"491 - BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC",
+        "discharges":34579,
+        "covered":29233.29,
+        "payments":7102.82
+    },
+    {
+        "definition":"536 - FRACTURES OF HIP & PELVIS W/O MCC",
+        "discharges":22728,
+        "covered":17837.79,
+        "payments":4821.38
+    },
+    {
+        "definition":"552 - MEDICAL BACK PROBLEMS W/O MCC",
+        "discharges":63116,
+        "covered":22808.39,
+        "payments":5841.4
+    },
+    {
+        "definition":"563 - FX, SPRN, STRN & DISL EXCEPT FEMUR, HIP, PELVIS & THIGH W/O MCC",
+        "discharges":20278,
+        "covered":19464.27,
+        "payments":5171.74
+    },
+    {
+        "definition":"602 - CELLULITIS W MCC",
+        "discharges":17714,
+        "covered":37974.4,
+        "payments":10525.13
+    },
+    {
+        "definition":"603 - CELLULITIS W/O MCC",
+        "discharges":140894,
+        "covered":20272.38,
+        "payments":5887.52
+    },
+    {
+        "definition":"638 - DIABETES W CC",
+        "discharges":48025,
+        "covered":21892.23,
+        "payments":6069.98
+    },
+    {
+        "definition":"640 - MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W MCC",
+        "discharges":56816,
+        "covered":28861.66,
+        "payments":8363.5
+    },
+    {
+        "definition":"641 - MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W/O MCC",
+        "discharges":153660,
+        "covered":17836.17,
+        "payments":4878.89
+    },
+    {
+        "definition":"682 - RENAL FAILURE W MCC",
+        "discharges":101029,
+        "covered":40258.71,
+        "payments":11683.25
+    },
+    {
+        "definition":"683 - RENAL FAILURE W CC",
+        "discharges":150444,
+        "covered":25354.29,
+        "payments":7108.63
+    },
+    {
+        "definition":"684 - RENAL FAILURE W/O CC/MCC",
+        "discharges":19540,
+        "covered":16954.12,
+        "payments":4664.46
+    },
+    {
+        "definition":"689 - KIDNEY & URINARY TRACT INFECTIONS W MCC",
+        "discharges":66583,
+        "covered":29464.19,
+        "payments":8223.72
+    },
+    {
+        "definition":"690 - KIDNEY & URINARY TRACT INFECTIONS W/O MCC",
+        "discharges":206695,
+        "covered":19865.56,
+        "payments":5409.83
+    },
+    {
+        "definition":"698 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC",
+        "discharges":22085,
+        "covered":42212.75,
+        "payments":12369.46
+    },
+    {
+        "definition":"699 - OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC",
+        "discharges":23755,
+        "covered":28173.05,
+        "payments":8063.14
+    },
+    {
+        "definition":"811 - RED BLOOD CELL DISORDERS W MCC",
+        "discharges":24148,
+        "covered":34376.15,
+        "payments":9442.85
+    },
+    {
+        "definition":"812 - RED BLOOD CELL DISORDERS W/O MCC",
+        "discharges":92851,
+        "covered":20855.35,
+        "payments":5738.29
+    },
+    {
+        "definition":"853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC",
+        "discharges":39482,
+        "covered":141995.09,
+        "payments":41267.56
+    },
+    {
+        "definition":"870 - SEPTICEMIA OR SEVERE SEPSIS W MV 96+ HOURS",
+        "discharges":22624,
+        "covered":163325.92,
+        "payments":45800.3
+    },
+    {
+        "definition":"871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV 96+ HOURS W MCC",
+        "discharges":319072,
+        "covered":49418.6,
+        "payments":13650.96
+    },
+    {
+        "definition":"872 - SEPTICEMIA OR SEVERE SEPSIS W/O MV 96+ HOURS W/O MCC",
+        "discharges":112430,
+        "covered":28323.1,
+        "payments":7968.84
+    },
+    {
+        "definition":"885 - PSYCHOSES",
+        "discharges":89733,
+        "covered":18761.07,
+        "payments":7180.2
+    },
+    {
+        "definition":"897 - ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC",
+        "discharges":31935,
+        "covered":14383.2,
+        "payments":5067.19
+    },
+    {
+        "definition":"917 - POISONING & TOXIC EFFECTS OF DRUGS W MCC",
+        "discharges":16952,
+        "covered":39321.72,
+        "payments":10835.57
+    },
+    {
+        "definition":"918 - POISONING & TOXIC EFFECTS OF DRUGS W/O MCC",
+        "discharges":29225,
+        "covered":17280.81,
+        "payments":4577.62
+    },
+    {
+        "definition":"948 - SIGNS & SYMPTOMS W/O MCC",
+        "discharges":50411,
+        "covered":18739.87,
+        "payments":4946.97
+    }
+]
