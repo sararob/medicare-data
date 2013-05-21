@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502cdf86-e445-4809-b411-45404e2fda55" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/controllers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/directives.js" afterPath="$PROJECT_DIR$/app/directives.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/filters.js" afterPath="$PROJECT_DIR$/app/filters.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/services.js" afterPath="$PROJECT_DIR$/app/services.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/js/web.js" afterPath="$PROJECT_DIR$/app/web.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web.js" afterPath="$PROJECT_DIR$/app/web.js" />
     </list>
     <ignored path="angular-phonecat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,10 +59,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="web.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="web.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/web.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="16" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
+                <state line="6" column="32" selection-start="184" selection-end="184" vertical-scroll-proportion="0.13372956">
                   <folding />
                 </state>
               </provider>
@@ -103,7 +95,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Procfile">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
@@ -194,6 +186,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app/js/web.js" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/app/web.js" />
       </list>
     </option>
   </component>
@@ -533,20 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/web.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="16" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="23" selection-start="216" selection-end="216" vertical-scroll-proportion="-6.25">
@@ -557,6 +536,20 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="184" selection-end="184" vertical-scroll-proportion="0.13372956">
           <folding />
         </state>
       </provider>
