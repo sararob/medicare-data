@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502cdf86-e445-4809-b411-45404e2fda55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/partials/procedure-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="$PROJECT_DIR$/app/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="$PROJECT_DIR$/app/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/procedure-detail.html" afterPath="$PROJECT_DIR$/app/partials/procedure-detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-phonecat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,14 +18,18 @@
     <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_modals.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369091157339" ignored="false" />
     <file path="/a.dummy" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369093543391" ignored="false" />
     <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_who_we_are.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369091255763" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/stylesheets/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369091383695" ignored="false" />
-    <file path="/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369091363947" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/D32/A10/sprockets%2F13fe41fee1fe35b49d145bcc06610705" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369092484853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/DCE/A10/sprockets%2Fedbf63d87f211c17de329b8a471a7caf" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369092484853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/CD8/370/sprockets%2F357970feca3ac29060c1e3861e2c0953" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369092484853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/stylesheets/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153285925" ignored="false" />
+    <file path="/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153285925" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/D32/A10/sprockets%2F13fe41fee1fe35b49d145bcc06610705" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153447404" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/DCE/A10/sprockets%2Fedbf63d87f211c17de329b8a471a7caf" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153447404" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/CD8/370/sprockets%2F357970feca3ac29060c1e3861e2c0953" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153447404" ignored="false" />
     <file path="/procedure-list.html" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369150179248" ignored="false" />
     <file path="/procedures.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369097210921" ignored="false" />
     <file path="/README.md" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369150575976" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
+    <file path="/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
+    <file path="/Procfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153519897" ignored="false" />
+    <file path="/package.json" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153648481" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,16 +90,37 @@
           <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="23" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+                <state line="12" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/README.md">
+          <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Procfile">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.11329305">
+                <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="npm-debug.log" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/npm-debug.log">
+              <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+                <state />
+              </provider>
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="21" selection-start="79" selection-end="79" vertical-scroll-proportion="0.07188498">
                   <folding />
                 </state>
               </provider>
@@ -130,7 +151,7 @@
           <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/css/app.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="22" column="15" selection-start="262" selection-end="262" vertical-scroll-proportion="0.47277936">
+                <state line="22" column="15" selection-start="262" selection-end="262" vertical-scroll-proportion="0.47413793">
                   <folding />
                 </state>
               </provider>
@@ -165,6 +186,8 @@
         <option value="$PROJECT_DIR$/app/partials/procedure-list.html" />
         <option value="$PROJECT_DIR$/app/js/controllers.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -247,61 +270,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="procedures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-phonecat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-phonecat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-phonecat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-phonecat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-phonecat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-phonecat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -485,13 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="32" selection-start="48" selection-end="48" vertical-scroll-proportion="-0.625">
@@ -508,7 +470,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="15" selection-start="262" selection-end="262" vertical-scroll-proportion="0.47277936">
+        <state line="22" column="15" selection-start="262" selection-end="262" vertical-scroll-proportion="0.47413793">
           <folding />
         </state>
       </provider>
@@ -520,16 +482,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.11329305">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.11329305">
+        <state line="12" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="14" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="79" selection-end="79" vertical-scroll-proportion="0.07188498">
           <folding />
         </state>
       </provider>
