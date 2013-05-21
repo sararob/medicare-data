@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502cdf86-e445-4809-b411-45404e2fda55" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="angular-phonecat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +27,7 @@
     <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
     <file path="/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
     <file path="/Procfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369177267187" ignored="false" />
-    <file path="/package.json" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369164913372" ignored="false" />
+    <file path="/package.json" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369177714200" ignored="false" />
     <file path="/web.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369160205618" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     <favorites_list name="angular-phonecat" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.68153363">
       <split-first>
         <leaf>
           <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
@@ -77,10 +77,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Procfile">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="procedure-list.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/partials/procedure-list.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="13" column="16" selection-start="589" selection-end="589" vertical-scroll-proportion="-8.125">
                   <folding />
                 </state>
               </provider>
@@ -113,10 +122,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="23" selection-start="192" selection-end="192" vertical-scroll-proportion="-5.625">
+                <state line="6" column="25" selection-start="126" selection-end="126" vertical-scroll-proportion="0.13867489">
                   <folding />
                 </state>
               </provider>
@@ -167,8 +176,8 @@
         <option value="$PROJECT_DIR$/app/js/filters.js" />
         <option value="$PROJECT_DIR$/app/js/web.js" />
         <option value="$PROJECT_DIR$/app/web.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -234,6 +243,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-phonecat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-phonecat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-phonecat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-phonecat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -415,13 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/procedure-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="589" selection-end="589" vertical-scroll-proportion="-8.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/directives.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -471,13 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="192" selection-end="192" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
@@ -502,6 +529,20 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/procedure-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="589" selection-end="589" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="126" selection-end="126" vertical-scroll-proportion="0.13867489">
           <folding />
         </state>
       </provider>
