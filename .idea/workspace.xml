@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502cdf86-e445-4809-b411-45404e2fda55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
     </list>
     <ignored path="angular-phonecat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +26,7 @@
     <file path="/README.md" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369150575976" ignored="false" />
     <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
     <file path="/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
-    <file path="/Procfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153519897" ignored="false" />
+    <file path="/Procfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369154019343" ignored="false" />
     <file path="/package.json" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153648481" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,31 +94,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Procfile">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+                <state line="1" column="24" selection-start="41" selection-end="41" vertical-scroll-proportion="0.022288261">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="npm-debug.log" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/npm-debug.log">
-              <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-                <state />
-              </provider>
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="21" selection-start="79" selection-end="79" vertical-scroll-proportion="0.07188498">
+                <state line="6" column="22" selection-start="126" selection-end="126" vertical-scroll-proportion="-3.75">
                   <folding />
                 </state>
               </provider>
@@ -186,8 +172,8 @@
         <option value="$PROJECT_DIR$/app/partials/procedure-list.html" />
         <option value="$PROJECT_DIR$/app/js/controllers.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -503,26 +489,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/npm-debug.log">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="79" selection-end="79" vertical-scroll-proportion="0.07188498">
+        <state line="6" column="22" selection-start="126" selection-end="126" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="41" selection-end="41" vertical-scroll-proportion="0.022288261">
           <folding />
         </state>
       </provider>
