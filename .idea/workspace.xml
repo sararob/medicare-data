@@ -26,7 +26,7 @@
     <file path="/README.md" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369150575976" ignored="false" />
     <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
     <file path="/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
-    <file path="/Procfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369177114482" ignored="false" />
+    <file path="/Procfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369177267187" ignored="false" />
     <file path="/package.json" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369164913372" ignored="false" />
     <file path="/web.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369160205618" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,7 +80,7 @@
           <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Procfile">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+                <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -501,7 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
