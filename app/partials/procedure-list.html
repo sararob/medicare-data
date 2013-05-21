@@ -1,0 +1,20 @@
+Search procedures: <input ng-model="query">
+
+Filter by:
+<select ng-model="orderProp">
+    <option value="discharges">Patient Discharges</option>
+    <option value="covered">Average Covered Charges</option>
+    <option value="payments">Average Total Payments</option>
+</select>
+
+<ul class="procedures">
+    <li ng-repeat="procedure in procedures | filter:query | orderBy:orderProp">
+        <h4 class="procedure-name"><a  ng-click="showDetails = ! showDetails">{{procedure.definition}}</a></h4>
+        <div class="procedure-details" ng-class="{ 'hidden': ! showDetails }">
+            <br>
+            <p>Number of patient discharges: {{procedure.discharges}}</p>
+            <p>Average amount covered by Medicare: ${{procedure.covered}}</p>
+            <p>Average total payments: ${{procedure.payments}}</p>
+        </div>
+    </li>
+</ul>

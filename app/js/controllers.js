@@ -1,24 +1,12 @@
 'use strict';
 
 /* Controllers */
+function ProcedureCtrl($scope, $http) {
+    $http.get('procedures/procedures.json').success(function(data) {
+        $scope.procedures = data;
+    });
 
-function PhoneListCtrl($scope, Phone) {
-  $scope.phones = Phone.query();
-  $scope.orderProp = 'age';
+    $scope.orderProp = 'discharges';
 }
 
-//PhoneListCtrl.$inject = ['$scope', 'Phone'];
-
-
-
-function PhoneDetailCtrl($scope, $routeParams, Phone) {
-  $scope.phone = Phone.get({phoneId: $routeParams.phoneId}, function(phone) {
-    $scope.mainImageUrl = phone.images[0];
-  });
-
-  $scope.setImage = function(imageUrl) {
-    $scope.mainImageUrl = imageUrl;
-  }
-}
-
-//PhoneDetailCtrl.$inject = ['$scope', '$routeParams', 'Phone'];
+ProcedureCtrl.$inject = ['$scope', '$http'];
