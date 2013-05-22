@@ -4,8 +4,7 @@
     "dependencies": {
     },
     "engines": {
-        "node": "0.10.x",
-        "npm": "1.2.x"
+        "node": "0.10.x"
     },
     "respository": "medicare-data",
     "author": "sararob"

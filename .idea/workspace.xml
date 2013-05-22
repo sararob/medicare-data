@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502cdf86-e445-4809-b411-45404e2fda55" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="angular-phonecat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -125,7 +125,7 @@
           <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="7" column="19" selection-start="146" selection-end="146" vertical-scroll-proportion="0.1627907">
+                <state line="6" column="24" selection-start="125" selection-end="125" vertical-scroll-proportion="0.13953489">
                   <folding />
                 </state>
               </provider>
@@ -175,9 +175,9 @@
         <option value="$PROJECT_DIR$/app/js/filters.js" />
         <option value="$PROJECT_DIR$/app/js/web.js" />
         <option value="$PROJECT_DIR$/app/web.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/app/partials/procedure-list.html" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -542,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="146" selection-end="146" vertical-scroll-proportion="0.1627907">
+        <state line="6" column="24" selection-start="125" selection-end="125" vertical-scroll-proportion="0.13953489">
           <folding />
         </state>
       </provider>
