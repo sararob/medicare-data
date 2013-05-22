@@ -1,1 +1,1 @@
-web: foreman start
+web: node scripts/web-server.js
