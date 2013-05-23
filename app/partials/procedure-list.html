@@ -11,9 +11,10 @@ Filter by:
 
 <ul class="procedures">
     <li ng-repeat="procedure in procedures | filter:query | orderBy:orderProp">
-        <h4 class="procedure-name"><a  ng-click="showDetails = ! showDetails">{{procedure.definition}}</a></h4>
+        <h4 class="procedure-name"><a  ng-click="showDetails = ! showDetails">{{name(procedure.definition)}}</a></h4>
         <div class="procedure-details" ng-class="{ 'hidden': ! showDetails }">
             <br>
+            <p>Procedure ID: {{id(procedure.definition)}}</p>
             <p>Number of patient discharges: {{procedure.discharges}}</p>
             <p>Average amount covered by Medicare: ${{procedure.covered}}</p>
             <p>Average total payments: ${{procedure.payments}}</p>

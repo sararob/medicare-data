@@ -11,7 +11,7 @@ li {
 }
 
 .procedure-details {
-    max-height: 100px;
+    max-height: 120px;
     transition: .8s;
     overflow: hidden;
 }
