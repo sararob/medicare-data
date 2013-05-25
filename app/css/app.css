@@ -4,6 +4,14 @@ body {
   padding-top: 20px;
 }
 
+h2.ng-scope {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+div#search-bar.ng-scope {
+    margin-left: 10px;
+}
 
 li {
     list-style: none;
@@ -20,12 +28,29 @@ li {
     max-height: 0;
 }
 
-.procedure-name a:hover {
-   cursor: pointer;
-}
-
-
 ul {
     margin: 0;
     padding: 0;
+}
+
+.about {
+    max-height: 30px;
+    transition: .6s;
+    overflow: hidden;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.about.hidden {
+    max-height: 0;
+}
+
+a {
+    cursor: pointer;
+}
+
+@media (max-width: 767px) {
+    ul {
+        max-width: 400px;
+    }
 }

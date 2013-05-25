@@ -2,34 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="502cdf86-e445-4809-b411-45404e2fda55" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers.js" afterPath="$PROJECT_DIR$/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/procedure-list.html" afterPath="$PROJECT_DIR$/app/partials/procedure-list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-phonecat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369087544275" ignored="false" />
+    <file path="/Dummy.txt" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369519547465" ignored="false" />
     <file path="/controllers.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369263238486" ignored="false" />
     <file path="/index.html" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369093245542" ignored="false" />
     <file path="/app.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369093312606" ignored="false" />
-    <file path="/app.css" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369149983238" ignored="false" />
+    <file path="/app.css" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369333511884" ignored="false" />
     <file path="/app.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369089500375" ignored="false" />
     <file path="/procedure-detail.html" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369095864957" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_modals.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369091157339" ignored="false" />
-    <file path="/a.dummy" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369260163458" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_modals.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369361636030" ignored="false" />
+    <file path="/a.dummy" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369428641376" ignored="false" />
     <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_who_we_are.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369091255763" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/stylesheets/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153285925" ignored="false" />
-    <file path="/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153285925" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/D32/A10/sprockets%2F13fe41fee1fe35b49d145bcc06610705" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153447404" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/DCE/A10/sprockets%2Fedbf63d87f211c17de329b8a471a7caf" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153447404" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/CD8/370/sprockets%2F357970feca3ac29060c1e3861e2c0953" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153447404" ignored="false" />
-    <file path="/procedure-list.html" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369263187109" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/stylesheets/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369434536931" ignored="false" />
+    <file path="/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369508326671" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/D32/A10/sprockets%2F13fe41fee1fe35b49d145bcc06610705" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369366617279" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/DCE/A10/sprockets%2Fedbf63d87f211c17de329b8a471a7caf" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369366617279" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/tmp/cache/assets/CD8/370/sprockets%2F357970feca3ac29060c1e3861e2c0953" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369366617279" ignored="false" />
+    <file path="/procedure-list.html" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369333562022" ignored="false" />
     <file path="/procedures.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369097210921" ignored="false" />
     <file path="/README.md" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369150575976" ignored="false" />
-    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
-    <file path="/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369153187137" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369419638433" ignored="false" />
+    <file path="/_headline.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369419628393" ignored="false" />
     <file path="/Procfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369196900766" ignored="false" />
     <file path="/package.json" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369177714200" ignored="false" />
     <file path="/web.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369160205618" ignored="false" />
@@ -37,20 +36,71 @@
     <file path="$PROJECT_DIR$/../../hapily/Gemfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369238386139" ignored="false" />
     <file path="/Gemfile" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369238386139" ignored="false" />
     <file path="$PROJECT_DIR$/../../hapily/app/assets/javascripts/application.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369238439253" ignored="false" />
-    <file path="$PROJECT_DIR$/../../hapily/app/views/layouts/application.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369261603134" ignored="false" />
-    <file path="/application.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369261603134" ignored="false" />
-    <file path="$PROJECT_DIR$/../../hapily/app/controllers/apis_controller.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369258147623" ignored="false" />
-    <file path="/apis_controller.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369258140951" ignored="false" />
-    <file path="/_header.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369257162409" ignored="false" />
-    <file path="$PROJECT_DIR$/../../hapily/app/views/layouts/_header.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369257162409" ignored="false" />
-    <file path="$PROJECT_DIR$/../../hapily/app/assets/javascripts/apis.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369261598966" ignored="false" />
-    <file path="/apis.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369261595768" ignored="false" />
-    <file path="$PROJECT_DIR$/../../hapily/app/views/apis/search.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369260284580" ignored="false" />
-    <file path="/search.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369260133251" ignored="false" />
-    <file path="$PROJECT_DIR$/../../hapily/app/views/apis/index.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369260293539" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/app/views/layouts/application.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369367448239" ignored="false" />
+    <file path="/application.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369331100871" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/app/controllers/apis_controller.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369420742863" ignored="false" />
+    <file path="/apis_controller.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369367720846" ignored="false" />
+    <file path="/_header.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369434386401" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/app/views/layouts/_header.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369420548465" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/app/assets/javascripts/apis.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369367415080" ignored="false" />
+    <file path="/apis.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369367390115" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/app/views/apis/search.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369420791548" ignored="false" />
+    <file path="/search.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369330628463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/app/views/apis/index.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369328594670" ignored="false" />
     <file path="/index.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369247822443" ignored="false" />
     <file path="/_apis.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369257981621" ignored="false" />
-    <file path="$PROJECT_DIR$/../../hapily/app/views/apis/_apis.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369258028217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/app/views/apis/_apis.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369420679890" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/config/routes.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369366887515" ignored="false" />
+    <file path="/routes.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369331042611" ignored="false" />
+    <file path="$PROJECT_DIR$/../../hapily/app/views/apis/display.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369367484756" ignored="false" />
+    <file path="/display.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369367480852" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/layouts/_header.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369434387743" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/config/environments/development.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369343801857" ignored="false" />
+    <file path="/development.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369343801005" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_event_details.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369417847636" ignored="false" />
+    <file path="/_event_details.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369417847278" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_yellow_date.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369356008794" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/index.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369344224544" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_form.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369415594166" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/models/person.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369346839062" ignored="false" />
+    <file path="/person.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369346838304" ignored="false" />
+    <file path="/_form.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369415424719" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/controllers/welcome_controller.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369347630080" ignored="false" />
+    <file path="/welcome_controller.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369347628689" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/javascripts/welcome.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369364999467" ignored="false" />
+    <file path="/welcome.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369364999468" ignored="false" />
+    <file path="/_yellow_date.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369354399351" ignored="false" />
+    <file path="/_modals.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369361636030" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/javascripts/jquery.spin.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369364746727" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/javascripts/application.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369364294162" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/javascripts/spin.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369364462227" ignored="false" />
+    <file path="/spin.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369364133001" ignored="false" />
+    <file path="/jquery.spin.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369364583605" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/views/welcome/_footer.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369417654677" ignored="false" />
+    <file path="/_footer.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369417654677" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sbx_splash_page/app/assets/stylesheets/media.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369434832200" ignored="false" />
+    <file path="/media.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369500743613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/views/pages/coding.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369505034192" ignored="false" />
+    <file path="/coding.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369505034192" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/stylesheets/custom.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369508327136" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/javascripts/pages.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369464197728" ignored="false" />
+    <file path="/pages.js.coffee" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369463783297" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/log/development.log" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369501004388" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/javascripts/pages.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369506341480" ignored="false" />
+    <file path="/pages.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369506324664" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/stylesheets/media.css.scss" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369500837757" ignored="false" />
+    <file path="/home.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369505233563" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/views/pages/home.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369505233563" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/config/environments/development.rb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369500935817" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/views/pages/resume.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369508260591" ignored="false" />
+    <file path="/resume.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369508215331" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/stylesheets/animate.min.css" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369504793655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/stylesheets/application.css" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369505068692" ignored="false" />
+    <file path="/application.css" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369505068692" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/javascripts/jquery.lettering.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369504855242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/javascripts/application.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369505309945" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/assets/javascripts/jquery.textillate.js" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369504898721" ignored="false" />
+    <file path="$PROJECT_DIR$/../../sara_robinson/app/views/layouts/application.html.erb" changelist="502cdf86-e445-4809-b411-45404e2fda55" time="1369508892265" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,19 +131,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/controllers.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.089686096">
+                <state line="4" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -111,7 +152,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="32" selection-start="48" selection-end="48" vertical-scroll-proportion="-0.625">
+                <state line="1" column="34" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -120,7 +161,16 @@
           <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="104" selection-start="76" selection-end="76" vertical-scroll-proportion="-1.875">
+                <state line="3" column="21" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/css/app.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="28" column="1" selection-start="361" selection-end="361" vertical-scroll-proportion="0.3298351">
                   <folding />
                 </state>
               </provider>
@@ -130,25 +180,16 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/css/app.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="18" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="procedure-list.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="procedure-list.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/partials/procedure-list.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="105" selection-start="507" selection-end="527" vertical-scroll-proportion="-8.125">
+                <state line="2" column="339" selection-start="148" selection-end="485" vertical-scroll-proportion="0.045941807">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Procfile" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Procfile">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="0" column="37" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
@@ -177,8 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/css/app.css.scss" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/partials/procedure-detail.html" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
         <option value="$PROJECT_DIR$/app/js/procedures.js.coffee" />
@@ -189,18 +228,20 @@
         <option value="$PROJECT_DIR$/app/web.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/scripts/web-server.js" />
-        <option value="$PROJECT_DIR$/app/css/app.css" />
         <option value="$PROJECT_DIR$/controllers.js" />
-        <option value="$PROJECT_DIR$/app/partials/procedure-list.html" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/app/css/app.css.scss" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/css/app.css" />
+        <option value="$PROJECT_DIR$/app/partials/procedure-list.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1615" />
-    <option name="y" value="16" />
+    <option name="x" value="26" />
+    <option name="y" value="27" />
     <option name="width" value="1654" />
-    <option name="height" value="817" />
+    <option name="height" value="815" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -293,12 +334,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-phonecat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-phonecat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -379,26 +439,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1615" y="16" width="1654" height="817" extended-state="0" />
-    <editor active="true" />
+    <frame x="26" y="27" width="1654" height="815" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32596686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20522387" sideWeight="0.67403316" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.210199" sideWeight="0.67403316" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32596686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -464,74 +524,48 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/directives.js">
+    <entry file="file://$PROJECT_DIR$/app/partials/procedure-list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="37" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/filters.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="104" selection-start="76" selection-end="76" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/web-server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="20" selection-start="998" selection-end="1004" vertical-scroll-proportion="1.008">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="32" selection-start="48" selection-end="48" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="42" column="20" selection-start="998" selection-end="1004" vertical-scroll-proportion="1.008" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
@@ -543,14 +577,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.089686096">
+        <state line="4" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="34" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="1" selection-start="361" selection-end="361" vertical-scroll-proportion="0.3298351">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/partials/procedure-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="105" selection-start="507" selection-end="527" vertical-scroll-proportion="-8.125">
+        <state line="2" column="339" selection-start="148" selection-end="485" vertical-scroll-proportion="0.045941807">
           <folding />
         </state>
       </provider>

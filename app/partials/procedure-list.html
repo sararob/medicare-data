@@ -1,5 +1,9 @@
-<h2>Medicare Provider Charge Data</h2>
+<h2>Medicare Provider Charge Data | <a ng-click="showAbout = ! showAbout">About</a></h2>
+<div class="about" ng-class="{ 'hidden': ! showAbout }">
+  Using data from the <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html" target="_blank">CMS</a>, this site provides information on the national average cost of the top 100 most frequently billed hospital discharges, and the amount covered by Medicare.
+</div>
 
+<div id="search-bar">
 Search procedures: <input ng-model="query">
 
 Filter by:
@@ -8,7 +12,7 @@ Filter by:
     <option value="covered">Average Covered Charges</option>
     <option value="payments">Average Total Payments</option>
 </select>
-
+</div>
 <ul class="procedures">
     <li ng-repeat="procedure in procedures | filter:query | orderBy:orderProp">
         <h4 class="procedure-name"><a  ng-click="showDetails = ! showDetails">{{name(procedure.definition)}}</a></h4>
